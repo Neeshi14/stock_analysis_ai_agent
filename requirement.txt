@@ -1,0 +1,12 @@
+flask
+yfinance
+pandas
+pandas-ta
+plotly
+google-generativeai
+langchain
+langchain-google-genai
+python-dotenv
+numpy
+
+
